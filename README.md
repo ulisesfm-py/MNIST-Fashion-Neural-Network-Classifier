@@ -1,6 +1,12 @@
 # MNIST-Neural-Network-Classifier
 
-This project implements a neural network from scratch to classify handwritten digits from the MNIST dataset.
+This project implements a neural network from scratch to classify handwritten digits from the MNIST dataset. 
+Data folder is not added because of storage limits in github.
+Data folder contains:
+* images_train.csv
+* images_test.csv
+* labels_train.csv
+* labels_test.csv
 
 ## Overview
 The neural network is built using NumPy and includes:
