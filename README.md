@@ -1,7 +1,7 @@
 # MNIST Fashion Neural Network Classifier
 
 This project implements a neural network from scratch to classify grayscale images of clothing from the MNIST dataset. 
-Data folder is not added because of storage limits in github. The dataset can be obtain from: \href{https://github.com/zalandoresearch/fashion-mnist}{Zalando Github Link}
+Data folder is not added because of storage limits in github. The dataset can be obtain from: [Zalando Github link](https://github.com/zalandoresearch/fashion-mnist)
 Data folder contains:
 * images_train.csv
 * images_test.csv
