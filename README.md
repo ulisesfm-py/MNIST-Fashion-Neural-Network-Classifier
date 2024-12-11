@@ -1,6 +1,12 @@
-# MNIST-Neural-Network-Classifier
+# MNIST Fashion Neural Network Classifier
 
-This project implements a neural network from scratch to classify handwritten digits from the MNIST dataset.
+This project implements a neural network from scratch to classify grayscale images of clothing from the MNIST dataset. 
+Data folder is not added because of storage limits in github. The dataset can be obtain from: [Zalando Github link](https://github.com/zalandoresearch/fashion-mnist)
+Data folder contains:
+* images_train.csv
+* images_test.csv
+* labels_train.csv
+* labels_test.csv
 
 ## Overview
 The neural network is built using NumPy and includes:
